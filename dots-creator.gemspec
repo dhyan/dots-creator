@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["dhyanbaba@gmail.com"]
   spec.summary       = %q{Get the dots for google maps.}
   spec.description   = %q{Get dots based on population in kml files.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/dhyan/dots-creator.git"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
